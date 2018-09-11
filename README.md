@@ -1,1 +1,1 @@
-# Blog
+# Blog - A laravel project.
